@@ -1,5 +1,7 @@
 body {
   background:black;
+  pointer-events:none;
+  cursor:default;
 }
 
 h1 {
